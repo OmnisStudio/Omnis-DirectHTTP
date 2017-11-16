@@ -1,5 +1,5 @@
 # Omnis-DirectHTTP
-Library shows how you can interact with Omnis directly via HTTP forms.
+Library shows how you can interact with Omnis directly via HTTP forms. For further information about the library and how to use it, refer to the tech note: http://www.omnis.net/technotes/tnwe0016.jsp
 
 Requires Omnis Studio 8.1.2 or above.
 
