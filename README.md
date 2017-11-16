@@ -10,3 +10,6 @@ This folder contains the source JSON files for the Omnis library in Github.
 To restore these files in Omnis Studio, click on the Libraries option in the Studio Browser, and click on the New Lib from JSON option. In the New Library (import) dialog, navigate to this source folder (containing library.json), and then specify a different folder or location for the new Library. Click on Import and open the library in the Studio Browser. 
 
 After you import the library you need to set the $serverport preference to 5912 (the port number needs to match the setting in the HTML page); to set this in Omnis, click on Omnis in the Studio Browser, click on Prefs and set $serverport in the Property Manager.
+
+### direct_http.html
+Open this file in a web browser from anywhere on your computer.
